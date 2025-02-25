@@ -1,6 +1,7 @@
 {
-  "name": "new-scraping",
+  "name": "use-google-sheet-data",
   "version": "1.0.0",
+  "description": "Pacote que retorna cotações",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
@@ -19,5 +20,8 @@
     "@types/react": "~18.3.12",
     "typescript": "^5.3.3"
   },
-  "private": true
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
